@@ -1,0 +1,16 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.center {
+    text-align: center;
+}
+
+.float {
+    float: left;
+}
+
+.mrg-top {
+    margin-top: 0.3%;
+}
